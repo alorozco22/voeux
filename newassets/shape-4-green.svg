@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="356mm"
+   height="356mm"
+   viewBox="0 0 356 356"
+   version="1.1"
+   id="svg875"
+   inkscape:export-filename="/Users/alorozco22/Desktop/Dev/voeux/assets/images/banner/shape/shape-1-green.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="shape-4-green.svg">
+  <defs
+     id="defs869" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.21225745"
+     inkscape:cx="485.02757"
+     inkscape:cy="613.35957"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="687"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata872">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="scale(0.26458333)"
+       d="M 680.91406 -4.7109375 A 672.75591 672.75591 0 0 0 9.421875 668.18945 A 672.75591 672.75591 0 0 0 682.25 1340.8008 A 672.75591 672.75591 0 0 0 1354.9336 668.04492 L 1119.4707 668.04492 A 437.29134 437.29134 0 0 1 682.22461 1105.3359 A 437.29134 437.29134 0 0 1 244.88672 668.13867 A 437.29134 437.29134 0 0 1 682.03711 230.75391 A 437.29134 437.29134 0 0 1 1119.4688 667.85742 L 1354.9336 667.75586 A 672.75591 672.75591 0 0 0 681.96289 -4.7109375 A 672.75591 672.75591 0 0 0 680.91406 -4.7109375 z "
+       style="opacity:0.51604938;fill:#cdde87;stroke-width:4.08945"
+       id="path2616" />
+  </g>
+</svg>
