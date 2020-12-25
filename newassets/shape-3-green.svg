@@ -7,37 +7,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="shape-2-green.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   inkscape:export-ydpi="32.299999"
-   inkscape:export-xdpi="32.299999"
-   inkscape:export-filename="/Users/alorozco22/Desktop/Dev/voeux/assets/images/banner/shape/shape-2-green.png"
-   id="svg875"
-   version="1.1"
-   viewBox="0 0 92 92"
+   width="92mm"
    height="92mm"
-   width="92mm">
+   viewBox="0 0 92 92"
+   version="1.1"
+   id="svg875"
+   inkscape:export-filename="/Users/alorozco22/Desktop/Dev/voeux/assets/images/banner/shape/shape-3-green.png"
+   inkscape:export-xdpi="49.84"
+   inkscape:export-ydpi="49.84"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="shape-3-green.svg">
   <defs
      id="defs869" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:window-height="687"
-     inkscape:window-width="1252"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="125.71429"
-     inkscape:cx="102.85714"
-     inkscape:zoom="0.35"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="-147.14286"
+     inkscape:cy="100"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="687"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata872">
     <rdf:RDF>
@@ -46,25 +46,25 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <rect
-       inkscape:export-ydpi="32.299999"
-       inkscape:export-xdpi="32.299999"
-       inkscape:export-filename="/Users/alorozco22/Desktop/Dev/voeux/assets/images/banner/shape/shape-2-green.png"
-       transform="rotate(45)"
-       ry="15.119047"
-       y="-30"
-       x="35.053825"
-       height="60"
-       width="60"
+       style="opacity:0.241975;fill:#cdde87;stroke:none;stroke-width:1"
        id="rect1438"
-       style="opacity:0.24197531;fill:#cdde87;stroke:none;stroke-width:1" />
+       width="60"
+       height="60"
+       x="31.1306"
+       y="-7.7502813"
+       ry="15.119047"
+       transform="rotate(25)"
+       inkscape:export-filename="/Users/alorozco22/Desktop/Dev/voeux/assets/images/banner/shape/shape-2-green.png"
+       inkscape:export-xdpi="32.299999"
+       inkscape:export-ydpi="32.299999" />
   </g>
 </svg>
