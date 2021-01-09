@@ -1,3 +1,7 @@
+let ocultar = function(){
+    $('.preloader').delay(500).fadeOut(500);
+}
+
 $(function() {
     
     "use strict";
@@ -5,10 +9,10 @@ $(function() {
     //===== Prealoder
     
     $(window).on('load', function(event) {
-        $('.preloader').delay(500).fadeOut(500);
+        setTimeout(ocultar, 3000);
+        
     });
-    
-    
+
     //===== Mobile Menu 
     
     $(".navbar-toggler").on('click', function() {
